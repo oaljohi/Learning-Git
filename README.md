@@ -1,3 +1,3 @@
 # Learning-Git
-Test For Learing-Git
-I created this repository for traing
+
+This repo was used to learn git 
